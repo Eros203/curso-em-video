@@ -1,4 +1,6 @@
 # Exercícios Curso em Vídeo
+## Objetivo
+Guardar os códigos referentes aos cursos que eu fiz ou estou fazendo no Curso em Vídeo, do professor Gustavo Guanabara.
 ## HTML5 e CSS3
 Olá, seja bem vindo ou bem vinda!
 Este é o meu repositório para guardar os exercícios de aulas dos cursos do Curso em Vídeo, e
