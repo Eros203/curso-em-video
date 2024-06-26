@@ -1,7 +1,7 @@
 # Exercícios Curso em Vídeo
 ## HTML5 e CSS3
-Olá, seja bem vindo ou bem vinda! &nbsp
-Este é o meu repositório para guardar os exercícios de aulas dos cursos do Curso em Vídeo, e &nbsp
+Olá, seja bem vindo ou bem vinda!
+Este é o meu repositório para guardar os exercícios de aulas dos cursos do Curso em Vídeo, e
 estou atualmente estudando sobre HTML5 e CSS3, que são, respectivamente, uma linguagem de marcação de hipertexto (Hypertext Markup Language) e 
 folhas de estilos em cascata (Cascading Style Sheets). Ambas são tecnologias web, ou seja, usadas para criar sites.
 
